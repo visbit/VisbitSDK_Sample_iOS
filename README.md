@@ -2,7 +2,7 @@
 
 ## Prerequisites ##
 * XCode 8.3
-* Visbit VR Streaming Account (free signup at [www.visbit.co](https://www.visbit.co))
+* Visbit VR Streaming Account (free signup at [www.visbit.co](https://www.visbit.co/#/sign_up?plan=free))
 
 ## Note
 In app's Info.plist, replace the value of key **co.visbit.vrplayer.appIdentifier** with your App ID.
