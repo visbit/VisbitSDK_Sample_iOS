@@ -15,7 +15,7 @@ In app's Info.plist, replace the value of key **co.visbit.vrplayer.appIdentifier
 4. Add **co.visbit.vrplayer.appIdentifier** key in the App Info.plist with the value of your App ID
 5. Register with the App ID
 	```swift
-    import VideoPlayer
+    import VideoPlayer_iOS_Native
     class AppDelegate: UIResponder, UIApplicationDelegate, StreamManagerListener {
        	func application(_ application: UIApplication,
         didFinishLaunchingWithOptions launchOptions: [UIApplicationLaunchOptionsKey: Any]?) -> Bool {
