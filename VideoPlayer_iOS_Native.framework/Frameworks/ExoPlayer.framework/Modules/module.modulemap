@@ -1,0 +1,10 @@
+framework module ExoPlayer {
+  umbrella header "ExoPlayer.h"
+
+  export *
+  module * { export * }
+}
+
+module ExoPlayer.Swift {
+    header "ExoPlayer-Swift.h"
+}

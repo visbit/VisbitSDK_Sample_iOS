@@ -1,0 +1,10 @@
+framework module VideoPlayer_iOS_Native {
+  umbrella header "VideoPlayer_iOS_Native.h"
+
+  export *
+  module * { export * }
+}
+
+module VideoPlayer_iOS_Native.Swift {
+    header "VideoPlayer_iOS_Native-Swift.h"
+}
